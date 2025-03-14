@@ -1,0 +1,57 @@
+{
+  "title": "Expertise",
+  "subtitle": "Discover my arsenal of frontend tools & technologies — TypeScript, React, Redux, Next.js & more. From UI libraries like Material UI to custom animations using GSAP & Framer Motion. I deliver stunning user experiences.",
+  "coreTools": [
+    { "icon": "React.svg", "title": "React" },
+    { "icon": "Next.svg", "title": "Next.js" },
+    { "icon": "Redux.svg", "title": "Redux" },
+    { "icon": "TS.svg", "title": "Typescript" },
+    { "icon": "HTML.svg", "title": "HTML" },
+    { "icon": "CSS.svg", "title": "CSS" },
+    { "icon": "Jest.svg", "title": "Jest" }
+  ],
+  "expertiseTable": {
+    "Core Frontend Tools": [
+      "React",
+      "Next.js",
+      "Typescript",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "Storybook",
+      "Vite",
+      "Firebase"
+    ],
+    "State Managers": ["Redux", "Context API"],
+    "React Ecosystem Libraries": [
+      "Axios",
+      "GraphQL",
+      "React Hook Form",
+      "React Router",
+      "Tanstack Router",
+      "Tanstack Query"
+    ],
+    "Content Management Systems (CMS)": ["Prismic.io", "Builder.io", "Strapi"],
+    "CSS": ["Tailwind", "SASS", "Emotion/Styled Components", "CSS Modules"],
+    "UI": [
+      "Material UI",
+      "Bootstrap",
+      "FluentUI",
+      "Pixel Perfect",
+      "Adaptive & Responsive"
+    ],
+    "Animations": ["Framer Motion", "GSAP"],
+    "Bundling Tools": ["Webpack", "Vite", "Rollup", "Parcel", "Gulp"],
+    "Code Quality": [
+      "ESLint",
+      "Prettier",
+      "BEM",
+      "Chrome Developer Tools",
+      "React Profiler",
+      "Git",
+      "Core Web Vitals"
+    ],
+
+    "Unit Testing": ["Jest", "React Testing Library"]
+  }
+}

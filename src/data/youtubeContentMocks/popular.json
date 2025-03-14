@@ -1,0 +1,46 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "m4WqloNTqzvezrsyIvjbcOhVuko",
+  "nextPageToken": "CAEQAA",
+  "regionCode": "UA",
+  "pageInfo": {
+    "totalResults": 23,
+    "resultsPerPage": 1
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Tcnuo38I-IgQU-J1hIE9sGfluPk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vAp3xL1AY4I"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-13T16:23:52Z",
+        "channelId": "UCr1JTjRb_IrJ0OkTFwT3xug",
+        "title": "Elegant Text Reveal Effect using React and Framer Motion | Letter-By-Letter Text Animation",
+        "description": "Elegant Text Reveal Effect using React and Framer Motion.Letter-By-Letter Text Animation. In This tutorial I'll be teaching you how ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vAp3xL1AY4I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vAp3xL1AY4I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vAp3xL1AY4I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brad Kahl",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-13T16:23:52Z"
+      }
+    }
+  ]
+}

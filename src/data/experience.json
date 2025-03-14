@@ -1,0 +1,236 @@
+{
+  "title": "Experience",
+  "mainExperience": [
+    {
+      "timerange": "Nov 2022 — Now",
+      "position": "Sr. Manager / Sr. Software Developer",
+      "company": "Bright Wolf, a Cognizant Company",
+      "chips": ["Remote", "Full-time"],
+      "description": "Architected, standardized, built, updated and implemented new features for the Lineage Logistics project for their daily delivery and pallet tasks for food storage and bettered the data tabling system for the CAT project.",
+      "icons": [
+        { "src": "React.svg", "alt": "React.js" },
+        { "src": "TS.svg", "alt": "Typescript.js" },
+        { "src": "Axios.svg", "alt": "Axios.js" },
+        { "src": "Jest.svg", "alt": "Jest" },
+        { "src": "Testing-Library.svg", "alt": "Testing-Library.js" },
+        { "src": "Git.svg", "alt": "Git" },
+        { "src": "GitHub.svg", "alt": "GitHub" }
+      ]
+    },
+    {
+      "timerange": "May 2021 — Nov 2022",
+      "position": "Principle Architect",
+      "company": "Palo Alto Networks",
+      "chips": ["Remote", "Full-time"],
+      "description": "Architected, standardized, built, updated and implemented new features for the central panwds monorepo (9 react packages with peer dependencies) which was a Cyber security focused platform level UI component library from scratch. Hired, assisted and coached developers daily to produce scalable/reusable UI components within our platform. Worked with outside teams to push for 100% global adoption of the central library across the company (20+ teams within Palo Alto Networks). Made sure that all new components released had a storybook example for our users for reference. Released package updates bi-monthly to our users, when needed, via our lerna versioning system within our CI/CD pipeline to make sure our global users/customers were successful in their daily tasks.",
+      "icons": [
+        { "src": "React.svg", "alt": "React.js" },
+        { "src": "TS.svg", "alt": "Typescript.js" },
+        { "src": "Testing-Library.svg", "alt": "Testing-Library.js" },
+        { "src": "styled-components.svg", "alt": "Styled-Components.js" },
+        { "src": "Tailwind.svg", "alt": "Tailwind CSS" },
+        { "src": "Git.svg", "alt": "Git" },
+        { "src": "GitHub.svg", "alt": "GitHub" }
+      ]
+    },
+    {
+      "timerange": "Mar 2020 — May 2021",
+      "position": "Sr. Software Engineer",
+      "company": "SAIC",
+      "chips": ["Remote", "Full-time"],
+      "description": "Setup/Standardized a process within the Dojo for new teams and started the Development of the Dojo and USPTO projects. Architected, engineered and updated our Reactjs/Typescript starter application regularly so that we could use it across new projects or tech challenges within our team, which allowed us to get apps up and running and connected to the backend services within minutes.",
+      "icons": [
+        { "src": "React.svg", "alt": "React.js" },
+        { "src": "React-Router.svg", "alt": "React-Router.js" },
+        { "src": "TS.svg", "alt": "Typescript.js" },
+        { "src": "Material UI (MUI).svg", "alt": "Material UI" },
+        { "src": "Testing-Library.svg", "alt": "Testing-Library.js" },
+        { "src": "Git.svg", "alt": "Git" },
+        { "src": "GitHub.svg", "alt": "GitHub" }
+      ]
+    },
+    {
+      "timerange": "June 2016 — Mar 2020",
+      "position": "Sr. Software Engineer",
+      "company": "Unisys",
+      "chips": ["Hybrid", "Full-time"],
+      "description": "Design, architect and implement reactjs application. Mainly worked on architecting key components of the front end application, including creating reusable patterns and improving standardization in the code.",
+      "icons": [
+        { "src": "React.svg", "alt": "React.js" },
+        { "src": "Redux.svg", "alt": "Redux.js" },
+        { "src": "Material UI (MUI).svg", "alt": "Material UI" },
+        { "src": "Webpack.svg", "alt": "Webpack.js" },
+        { "src": "Git.svg", "alt": "Git" },
+        { "src": "GitHub.svg", "alt": "GitHub" }
+      ]
+    },
+    {
+      "timerange": "Oct 2013 — Mar 2016",
+      "position": "Software Engineer",
+      "company": "Logi Analytics",
+      "chips": ["Full-time"],
+      "description": "Architected/Standardized the Vision App during it's 1.2 Redesign to be it's own Bootstrap/Foundation library called, 'Logi Quickstart', which has it's own Styleguide that allows clients to easily Re-Theme the App.",
+      "icons": [
+        { "src": "JS.svg", "alt": "JS" },
+        { "src": "HTML.svg", "alt": "HTML" },
+        { "src": "SASS.svg", "alt": "SASS" },
+        { "src": "Gulp.svg", "alt": "Gulp.js" },
+        { "src": "Git.svg", "alt": "Git" },
+        { "src": "GitHub.svg", "alt": "GitHub" }
+      ]
+    },
+    {
+      "timerange": "Nov 2012 — Oct 2013",
+      "position": "Software Engineer",
+      "company": "WeddingWire",
+      "chips": ["Full-time"],
+      "description": "Designed and Implemented web interfaces to improve the experience on weddingwire.com on a daily basis. Redesigned their navigation bar using CSS/SASS, JS and JQuery. Their app was built with Ruby on Rails (RoR).",
+      "icons": [
+        { "src": "JS.svg", "alt": "JS" },
+        { "src": "HTML.svg", "alt": "HTML" },
+        { "src": "SASS.svg", "alt": "SASS" },
+        { "src": "Git.svg", "alt": "Git" },
+        { "src": "GitHub.svg", "alt": "GitHub" }
+      ]
+    },
+    {
+      "timerange": "Aug 2012 — Nov 2012",
+      "position": "Software Engineer",
+      "company": "The College Board",
+      "chips": ["Full-time"],
+      "description": "Worked in Agile environment leveraging (HTML/CSS3/Javascript/jQuery) to engineer and rapidly produce teachers' community APTC and API websites based on business and designer specifications within user stories on a sprint to sprint basis. Developed reusable jQuery plugins and leveraged/implemented them in the creation of templates used within Liferay CMS to meet customer needs.",
+      "icons": [
+        { "src": "JS.svg", "alt": "JS" },
+        { "src": "HTML.svg", "alt": "HTML" },
+        { "src": "CSS.svg", "alt": "CSS" },
+        { "src": "Git.svg", "alt": "Git" },
+        { "src": "GitHub.svg", "alt": "GitHub" }
+      ]
+    },
+    {
+      "timerange": "June 2011 — Aug 2012",
+      "position": "Software Engineer",
+      "company": "Eloqua | Oracle",
+      "chips": ["Full-time"],
+      "description": "Developed daily in Javascript using an MVC called SproutCore to improve Eloqua's current Marketing Automation application which helped them IPO(Go Public) and eventually get bought out by Oracle.",
+      "icons": [
+        { "src": "JS.svg", "alt": "JS" },
+        { "src": "HTML.svg", "alt": "HTML" },
+        { "src": "SASS.svg", "alt": "SASS" },
+        { "src": "Gulp.svg", "alt": "Gulp.js" },
+        { "src": "Git.svg", "alt": "Git" },
+        { "src": "GitHub.svg", "alt": "GitHub" }
+      ]
+    },
+    {
+      "timerange": "Aug 2009 — June 2011",
+      "position": "Jr. Software Engineer",
+      "company": "Pragmatics",
+      "chips": ["Full-time"],
+      "description": "Responded to and completed daily tasks in a timely manor. Researched new technologies and presented information gathered to team. Programmed and updated scripts to better the team's daily tasks and operations. Created and developed HTML press release pages for weekly bank closings, which required one to be detail oriented. Tested and pinpointed browser compatibility issues in the development of new HTML pages. Designed the Header/Body/Footer for FDIC's new site redesign using PhotoShop. Programmed the functionality of FDIC's new Header using HTML/CSS/JavaScript(JQuery). Created Homepage widget which pulled FIL's(Financial Institution Letters), SA's(Special Alerts) and YouTube videos using (JQuery) Ajax calls to grab XML data. Assisted in the creation of an HTML backup script using Python.",
+      "icons": [
+        { "src": "JS.svg", "alt": "JS" },
+        { "src": "HTML.svg", "alt": "HTML" },
+        { "src": "CSS.svg", "alt": "CSS" }
+      ]
+    },
+    {
+      "timerange": "Oct 2008 — Aug 2009",
+      "position": "Jr. Software Engineer",
+      "company": "Cortina Productions",
+      "chips": ["Full-time"],
+      "description": "Assisted in front-end development of computer-based interactive experiences and interactive games for museums and the web. Tested and pinpointed problems with software in development. Worked with other programmers to add/modify components in existing applications. Entered data and content for new projects. Researched new technologies and presented information gathered to staff. Created and programmed Cortina Productions government page using Photoshop/Flash/AS3. Designed asset categorization and did all content entry using XML for a large scale multi-touch kiosk for the United States Holocaust Memorial Museum. Programmed the attract loop (intro screen) for an exhibit at the Library of Congress using Flash/AS3.",
+      "icons": [
+        { "src": "JS.svg", "alt": "JS" },
+        { "src": "HTML.svg", "alt": "HTML" },
+        { "src": "CSS.svg", "alt": "CSS" }
+      ]
+    }
+  ],
+  "nonRelatedExperience": [
+    {
+      "timerange": "May 2005 - June 2019",
+      "position": "Charity - Special Olympics",
+      "company": "Roanoke PD",
+      "chips": ["Part-time", "Golf"],
+      "description": "For nearly 15 years I assisted and help my dad in gathering funds, sponsorships and running the Roanoke PD's annual golf charity tournament in support of the Special Olypics."
+    },
+    {
+      "timerange": "Feb 2018 - Mar 2018",
+      "position": "Designer",
+      "company": "Josh Norman (Yes, the NFL Player)",
+      "chips": ["Side-hustle"],
+      "description": "Outlined Josh Norman's House in Loudoun VA using PhotoShop to design a logo he would eventually engrave onto his bathroom towels.",
+      "preview": {
+        "title": "View Design",
+        "link": "https://bkahl1984.github.io/portfolio/josh-norman-house-design.jpg"
+      }
+    },
+    {
+      "timerange": "May 2008",
+      "position": "Video Producer, Video Editor, Director",
+      "company": "",
+      "chips": ["Side-project", "Hobby"],
+      "description": "Created and edited my first short skit and entered it into The Grandin theater's local film festival in Roanoke, VA and placed 1st. I created the film using my very first Mac computer.",
+      "preview": {
+        "title": "View Film",
+        "link": "https://www.youtube.com/watch?v=65OercMJBag&ab_channel=BradKahl"
+      }
+    }
+  ],
+  "expertiseData": [
+    {
+      "groupTitle": "Core Frontend Tools",
+      "groupCards": [
+        { "icon": "TS", "title": "Typescript" },
+        { "icon": "React", "title": "React" },
+        { "icon": "Redux", "title": "Redux" },
+        { "icon": "MobX", "title": "MobX" },
+        { "icon": "Next", "title": "Next.js" },
+        { "icon": "Axios", "title": "Axios" },
+        { "icon": "SWR", "title": "SWR" },
+        { "icon": "JS", "title": "Javascript" },
+        { "icon": "HTML", "title": "HTML" },
+        { "icon": "CSS", "title": "CSS" },
+        { "icon": "React-Hook-Form", "title": "React Hook Form" },
+        { "icon": "React-Query", "title": "React Query" },
+        { "icon": "React-Router", "title": "React Router" },
+        { "icon": "Firebase", "title": "Firebase" }
+      ]
+    },
+    {
+      "groupTitle": "Bundling Tools & Code Quality",
+      "groupCards": [
+        { "icon": "Webpack", "title": "Webpack" },
+        { "icon": "Vitejs-logo", "title": "Vite" },
+        { "icon": "Rollup", "title": "Rollup" },
+        { "icon": "Gulp", "title": "Gulp" },
+        { "icon": "ESLint", "title": "ESLint" },
+        { "icon": "Prettier", "title": "Prettier" },
+        { "icon": "bem", "title": "BEM" },
+        { "icon": "chrome", "title": "Chrome Developer Tools" },
+        { "icon": "React", "title": "React Profiler" },
+        { "icon": "Jest", "title": "Jest" },
+        { "icon": "Testing-Library", "title": "Testing Library" },
+        { "icon": "Git", "title": "Git" },
+        { "icon": "Web-Core-Vitals-Pagespeed", "title": "Core Web Vitals" }
+      ]
+    },
+    {
+      "groupTitle": "UI, Layout & Animations",
+      "groupCards": [
+        { "icon": "Material UI (MUI)", "title": "Material UI" },
+        { "icon": "Tailwind", "title": "Tailwind CSS" },
+        { "icon": "shadcn-ui", "title": "shadcn/ui" },
+        { "icon": "Bootstrap", "title": "Bootstrap" },
+        { "icon": "SASS", "title": "SASS" },
+        { "icon": "styled-components", "title": "Styled Components" },
+        { "icon": "Framer-Motion", "title": "Framer Motion" },
+        { "icon": "GSAP", "title": "GSAP" },
+        { "icon": "css-modules", "title": "CSS Modules" },
+        { "icon": "Pixel-Perfect", "title": "Pixel Perfect" },
+        { "icon": "adaptive-responsive", "title": "Adaptive & Responsive" }
+      ]
+    }
+  ]
+}

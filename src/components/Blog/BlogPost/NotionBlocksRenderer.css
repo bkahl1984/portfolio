@@ -1,0 +1,69 @@
+.rnr-container {
+  display: grid;
+  grid-template-columns: 100%;
+  gap: 0.5rem;
+}
+
+.rnr-container h1 {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.2;
+}
+
+.rnr-container h2 {
+  font-size: 40px;
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+.rnr-container h3 {
+  font-size: 24px;
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+.rnr-to_do {
+  padding-left: 0;
+}
+
+.rnr-bulleted_list_item,
+.rnr-numbered_list_item {
+  margin-left: 0.5rem;
+}
+
+.rnr-container .rnr-bold {
+  font-weight: 700;
+}
+
+.rnr-inline-code {
+  background-color: #222;
+  color: rgb(196, 82, 82);
+  padding: 0.05rem 0.25rem;
+  border-radius: 0.25rem;
+}
+
+.rnr-container .rnr-quote {
+  border-left-color: #1b9aaa;
+}
+
+.rnr-container .rnr-callout {
+  background-color: #222;
+  border-radius: 0.25rem;
+}
+.rnr-container .rnr-video {
+  width: 100%;
+  aspect-ratio: 16/9;
+}
+
+.rnr-code {
+  overflow-x: hidden !important;
+}
+
+.rnr-container pre[class*="language-"] {
+  position: relative;
+}
+
+.rnr-code code {
+  white-space: pre-wrap;
+  max-width: 100%;
+}

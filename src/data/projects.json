@@ -1,0 +1,45 @@
+{
+  "title": "Projects",
+  "description": "A concise overview of selected frontend development projects, showcasing skills and capabilities.\n\nIf you want to check my actual frontend skills, give me a Kahl!",
+  "projects": [
+    {
+      "img": "stanleysteemer.png",
+      "title": "Stanley Steemer",
+      "description": "May 2024: Built a more modern receipt application that printed out clean pdf's for clients using Python.",
+      "previewLink": "https://bkahl1984.github.io/portfolio/customer_report.pdf",
+      "isVisible": true
+    },
+    {
+      "img": "allbookrepair.jpg",
+      "title": "All Book Repair App",
+      "description": "Nov 2021: Static website built with Gatsby, React.js, Typescript and Material UI.",
+      "isVisible": true
+    },
+    {
+      "img": "logifoosball.png",
+      "title": "Logi Foosball App",
+      "description": "Oct 2015: Company Foosball app built with Node.js and Mongo DB.",
+      "codeLink": "https://github.com/bkahl/node_foosball",
+      "isVisible": true
+    },
+    {
+      "img": "bradflix.png",
+      "title": "BradFlix App",
+      "description": "Oct: 2013: Movie app to view all my owned movies. Built with Ruby on Rails (RoR).",
+      "codeLink": "https://github.com/bkahl/bradFlix",
+      "isVisible": true
+    },
+    {
+      "img": "pogocleanaway.jpg",
+      "title": "Pogo Cleanaway",
+      "description": "Jan 2011: Cleaning and maintenance app. Built using HTML, CSS, JQuery and Vanilla JS.",
+      "isVisible": true
+    },
+    {
+      "img": "enterprisepartners.jpg",
+      "title": "Enterprise Partners Consulting",
+      "description": "Nov 2010: Consulting app. Built using HTML, CSS, JQuery and Vanilla JS.",
+      "isVisible": true
+    }
+  ]
+}
