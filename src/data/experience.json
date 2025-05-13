@@ -3,7 +3,7 @@
   "mainExperience": [
     {
       "timerange": "Nov 2022 — Now",
-      "position": "Sr. Manager / Sr. Software Developer",
+      "position": "Sr. Manager / Principal Engineer",
       "company": "Bright Wolf, a Cognizant Company",
       "chips": ["Remote", "Full-time"],
       "description": "Architected, standardized, built, updated and implemented new features for the Lineage Logistics project for their daily delivery and pallet tasks for food storage and bettered the data tabling system for the CAT project.",
@@ -19,7 +19,7 @@
     },
     {
       "timerange": "May 2021 — Nov 2022",
-      "position": "Principle Architect",
+      "position": "Principal Architect",
       "company": "Palo Alto Networks",
       "chips": ["Remote", "Full-time"],
       "description": "Architected, standardized, built, updated and implemented new features for the central panwds monorepo (9 react packages with peer dependencies) which was a Cyber security focused platform level UI component library from scratch. Hired, assisted and coached developers daily to produce scalable/reusable UI components within our platform. Worked with outside teams to push for 100% global adoption of the central library across the company (20+ teams within Palo Alto Networks). Made sure that all new components released had a storybook example for our users for reference. Released package updates bi-monthly to our users, when needed, via our lerna versioning system within our CI/CD pipeline to make sure our global users/customers were successful in their daily tasks.",
