@@ -57,7 +57,7 @@ const navLinks = [
   //   isExternal: false,
   // },
   // {
-  //   href: "https://www.youtube.com/@VladyslavDihtiarenko?sub_confirmation=1",
+  //   href:
   //   text: "YouTube",
   //   isExternal: true,
   // },

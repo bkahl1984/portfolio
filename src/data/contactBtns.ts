@@ -8,7 +8,7 @@ import EmailIcon from "@/components/icons/social/EmailIcon";
 
 const contactBtns = [
   // {
-  //   href: "https://www.youtube.com/@VladyslavDihtiarenko?sub_confirmation=1",
+  //   href: "add url link",
   //   ariaLabel: "Visit my YouTube channel",
   //   icon: YouTubeIcon,
   // },

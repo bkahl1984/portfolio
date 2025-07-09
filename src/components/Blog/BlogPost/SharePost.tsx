@@ -32,7 +32,7 @@ const SharePost = () => {
     url:
       typeof window !== "undefined"
         ? window?.location?.href
-        : "https://vddeveloper.online/blog",
+        : "add url link"
   };
 
   const iconProps = {

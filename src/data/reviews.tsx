@@ -73,7 +73,7 @@ export const reviews: Review[] = [
   //     <>
   //       <P1>
   //         I had the pleasure of working with{" "}
-  //         <span className="bold-white">Vladislav</span> on a headless project
+  //         <span className="bold-white"></span> on a headless project
   //         that utilized <span className="bold-cyan">React</span> and{" "}
   //         <span className="bold-cyan">Salesforce Commerce Cloud</span>. His
   //         exceptional skills as a frontend developer were evident from the
@@ -82,13 +82,13 @@ export const reviews: Review[] = [
   //         and his attention to detail was unparalleled.
   //       </P1>
   //       <P1>
-  //         Not only was <span className="bold-white">Vladislav</span> a talented
+  //         Not only was <span className="bold-white"></span> a talented
   //         developer, but he was also an incredibly responsible and reliable team
   //         player. His dedication to the project was unwavering, and he always
   //         went above and beyond to ensure the success of the project.
   //       </P1>
   //       <P1>
-  //         I am confident that <span className="bold-white">Vladislav</span> will
+  //         I am confident that <span className="bold-white"></span> will
   //         make a valuable contribution to any frontend development role he takes
   //         on, and <span className="bold-cyan">recommend him</span> without
   //         hesitation.
