@@ -2,6 +2,13 @@
   "title": "Projects",
   "description": "A concise overview of selected frontend development projects, showcasing skills and capabilities.\n\nIf you want to check my actual frontend skills, give me a Kahl!",
   "projects": [
+      {
+        "img": "timebackwashandfold.png",
+        "title": "TimeBack Wash & Fold App",
+        "description": "May 2024: Built/Started a Wash and Fold Business with my wife called TimeBack Wash and Fold. Built in React",
+        "previewLink": "https://www.timebackwashandfold.com/",
+        "isVisible": true
+    },
     {
       "img": "stanleysteemer.png",
       "title": "Stanley Steemer",
