@@ -126,7 +126,7 @@ const Contact = () => {
           </div>
           <div className="contact__download-cv">
             <motion.a
-              href="Brad_Kahl_Resume_March_2025.docx"
+              href="Brad_Kahl_Resume_March_2026.docx"
               title={"Get my CV in DOCX Form"}
               target="_blank"
               initial={{ y: 32, opacity: 0 }}
