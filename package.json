@@ -1,6 +1,7 @@
 {
   "name": "frontend-portfolio-website",
   "version": "0.1.0",
+  "author": "Brad Kahl",
   "private": true,
   "browserslist": [
     ">0.3%",

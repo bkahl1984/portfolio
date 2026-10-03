@@ -30,7 +30,7 @@ export async function POST(request: NextRequest) {
   const html = render(ContactEmail({ name, email, message }));
 
   const mailOptions: Mail.Options = {
-    from: "contact@vddeveloper.online",
+    from: process.env.NODEMAILER_EMAIL,
     sender: email,
     replyTo: email,
     to: process.env.NODEMAILER_EMAIL,

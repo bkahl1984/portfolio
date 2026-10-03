@@ -167,7 +167,7 @@ const ContactForm = () => {
                   message: "Name must contain at least 2 characters",
                 },
                 pattern: {
-                  value: /^[A-Za-zА-Яа-яЇїІіЄє\s-]+$/,
+                  value: /^[A-Za-z\s'-]+$/,
                   message: "Invalid name format",
                 },
               })}

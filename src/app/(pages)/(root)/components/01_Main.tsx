@@ -237,7 +237,7 @@ const Main = () => {
               <div className="main__photo">
                 <div className="main__photo_inner">
                   <Image
-                    src={`${process.env.NEXT_PUBLIC_URL}/IMG_BKAHL-3.jpg`}
+                    src={`${process.env.NEXT_PUBLIC_URL ?? ""}/IMG_BKAHL-3.jpg`}
                     sizes="(max-width: 991.98px) 464px, 624px"
                     alt="Photo of Brad Kahl, frontend developer"
                     fill

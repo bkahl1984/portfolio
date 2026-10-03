@@ -101,7 +101,7 @@ const ReviewCard = ({
         <div className="card__photo">
           {photo ? (
             <Image
-              src={`${process.env.NEXT_PUBLIC_URL}/assets/reviews/${photo}`}
+              src={`${process.env.NEXT_PUBLIC_URL ?? ""}/assets/reviews/${photo}`}
               alt={`Photo of ${name}`}
               fill
               sizes="72px"

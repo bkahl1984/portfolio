@@ -21,9 +21,7 @@ export const metadata = {
   title: "Brad Kahl",
   description:
     "Frontend Developer from Virginia. Passionate about creating digital experiences on the web.",
-  other: {
-    freelancehunt: "38e96f77035b108",
-  },
+  authors: [{ name: "Brad Kahl" }],
 };
 
 export default function RootLayout({

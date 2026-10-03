@@ -3,6 +3,14 @@
   "description": "A concise overview of selected frontend development projects, showcasing skills and capabilities.\n\nIf you want to check my actual frontend skills, give me a Kahl!",
   "projects": [
       {
+        "img": "salubriousvitality.png",
+        "title": "Salubrious Vitality",
+        "description": "March 2026: Built a website for a UK naturopath combining herbal medicine, mind-body work & energy healing. Built in React and TypeScript with Vite.",
+        "previewLink": "https://salubriousvitality.co.uk/",
+        "codeLink": "https://github.com/bkahl1984/salubrious-vitality-app",
+        "isVisible": true
+    },
+      {
         "img": "timebackwashandfold.png",
         "title": "TimeBack Wash & Fold App",
         "description": "July 2025: Started and built a Wash and Fold side hustle business with my wife called TimeBack Wash & Fold. Built in React",

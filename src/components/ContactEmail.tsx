@@ -1,24 +1,21 @@
 import {
   Body,
-  Button,
   Container,
   Head,
   Hr,
   Html,
-  Img,
   Preview,
-  Section,
   Text,
 } from "@react-email/components";
 import * as React from "react";
 
-interface KoalaWelcomeEmailProps {
+interface ContactEmailProps {
   name: string;
   email: string;
   message: string;
 }
 
-export const ContactEmail = ({ name, email, message }: KoalaWelcomeEmailProps) => {
+export const ContactEmail = ({ name, email, message }: ContactEmailProps) => {
   const htmlNewlinesAsBreakPoints = (text?: string | null) => {
     const nParagraphs = text?.split("\n").length || 0;
     return text?.split("\n").map((paragraph, index) => (
@@ -32,18 +29,9 @@ export const ContactEmail = ({ name, email, message }: KoalaWelcomeEmailProps) =
   return (
     <Html>
       <Head />
-      <Preview>
-        The sales intelligence platform that helps you uncover qualified leads.
-      </Preview>
+      <Preview>New message from {name} via Brad Kahl&apos;s portfolio</Preview>
       <Body style={main}>
         <Container style={container}>
-          <Img
-            src={`https://github.com/bkahl1984/portfolio/assets/62521930/df32cc0f-1cce-4d14-a763-dc8f49d81f90`}
-            width="170"
-            height="50"
-            alt="Koala"
-            style={logo}
-          />
           <Text style={paragraph}>{htmlNewlinesAsBreakPoints(message)}</Text>
           <Hr style={hr} />
           <Text style={footer}>{name}</Text>
@@ -65,12 +53,6 @@ const main = {
 const container = {
   margin: "0 auto",
   padding: "20px 0 48px",
-};
-
-const logo = {
-  margin: "0 auto",
-  width: "91px",
-  height: "42px",
 };
 
 const paragraph = {

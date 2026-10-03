@@ -178,7 +178,7 @@ const ProjectSlide = ({
   const projectImg = (
     <div className="slide__img">
       <Image
-        src={`${process.env.NEXT_PUBLIC_URL}/${img}`}
+        src={`${process.env.NEXT_PUBLIC_URL ?? ""}/${img}`}
         sizes="(max-width: 991.98px) 511px, (max-width: 991.98px) 720px, 645px"
         quality={80}
         loading="lazy"

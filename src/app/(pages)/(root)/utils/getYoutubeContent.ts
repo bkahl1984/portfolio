@@ -3,7 +3,7 @@ import { cache } from "react";
 // import fs from "fs";
 
 const API_KEY = process.env.YOUTUBE_API_KEY || "";
-const CHANNEL_ID = "UCr1JTjRb_IrJ0OkTFwT3xug";
+const CHANNEL_ID = "UCYFOaheifoRg5x021VRxLOw";
 
 import mockLatest from "src/data/youtubeContentMocks/latest.json";
 import mockPopular from "src/data/youtubeContentMocks/popular.json";
