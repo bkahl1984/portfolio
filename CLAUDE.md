@@ -21,7 +21,7 @@ Personal portfolio site for Brad Kahl. Next.js 13.4 (App Router) + TypeScript + 
   - Project images: `public/<img>` (e.g. `public/timebackwashandfold.png`), via `ProjectSlide.tsx`.
   - Tech icons: `public/assets/tech-icons/<name>.svg`, via `ExperienceCard.tsx` / `ExpertiseCard.tsx`.
   - Hero photo: `public/IMG_BKAHL-3.jpg` in `01_Main.tsx`.
-  - Resume: `public/Brad_Kahl_Resume_March_2025.docx`, linked from `06_Contact.tsx`.
+  - Resume: `public/Brad_Kahl_Resume_March_2026.docx`, linked from `06_Contact.tsx`.
 - Some images are static imports instead (`public/assets/bg.jpg`, `public/assets/blog/...`).
 - `src/app/AssetPathProvider.ts` (`getPathProvider`) is not used anywhere.
 
